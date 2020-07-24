@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 
-[![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=["contribs","prs"]&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bayek0fsiwa/github-readme-stats)
+[![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bayek0fsiwa/github-readme-stats)
