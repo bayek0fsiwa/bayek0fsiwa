@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)](https://github.com/bayek0fsiwa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa)](https://github.com/baayek0fsiwa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact)](https://github.com/baayek0fsiwa/github-readme-stats)
