@@ -7,6 +7,8 @@
 
 ### Hi there 👋 👀
 
+![](https://komarev.com/ghpvc/?username=bayek0fsiwa)
+
 I'm a Student, Learner & Linux Enthusiast!
 <!--
 - 🔭 I’m currently working on ... 
