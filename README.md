@@ -5,7 +5,7 @@
 
 
 
-### Hi there 👋
+### Hi there 👋 👀
 
 I'm a Student, Learner & Linux Enthusiast!
 <!--
@@ -17,6 +17,7 @@ I'm a Student, Learner & Linux Enthusiast!
 - ⚡ Fun fact: ...-->
 - 🌱 I’m currently learning `javascript` and `vue`
 - 🤔 I’m looking for help with other content creators
+- 🥅 2020 Goals: Contribute to Open Source projects
 
 
 **Languages and Tools:**  
