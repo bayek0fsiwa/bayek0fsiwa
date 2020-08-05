@@ -1,19 +1,23 @@
+<p align="center">
+  <img alt="Hero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true" />
+</p>
+
+
+
+
 ### Hi there 👋
 
+I'm a Student, Learner & Linux Enthusiast!
 <!--
-**bayek0fsiwa/bayek0fsiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+- 🌱 I’m currently learning `javascript` and `vue`
+- 🤔 I’m looking for help with other content creators
+
 
 **Languages and Tools:**  
 
@@ -29,7 +33,29 @@ Here are some ideas to get you started:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://www.google.com/search?&q=vue)<br/>
 
 
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats" />
+ </p>
 
-[![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)](https://github.com/bayek0fsiwa/github-readme-stats)
+<!--
+[![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
