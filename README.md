@@ -21,8 +21,8 @@ I'm a Student, Learner & Linux Enthusiast!
 - 🤔 I’m looking for help with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 
-
-**Languages and Tools:**  
+<!--
+**Languages and Tools:**  -->
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
