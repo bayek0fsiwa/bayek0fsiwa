@@ -45,7 +45,7 @@ I'm a Student, Learner & Linux Enthusiast!
 
 
 <p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark&hide=css,html)](https://github.com/baayek0fsiwa/github-readme-stats" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&hide=html,css,xml)](https://github.com/baayek0fsiwa/github-readme-stats" />
  </p>
 
 <!--
