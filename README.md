@@ -5,7 +5,7 @@
 
 
 
-### Hi there 👋 👀
+### Hi there 👋🏻 👀
 
 ![](https://komarev.com/ghpvc/?username=bayek0fsiwa)
 
@@ -45,21 +45,14 @@ I'm a Student, Learner & Linux Enthusiast!
 
 
 <p align="left">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact)](https://github.com/baayek0fsiwa/github-readme-stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=vue">
  </p>
 
 <!--
 [![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats) -->
-
-
-
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats) 
+ <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact)](https://github.com/baayek0fsiwa/github-readme-stats" />
+-->
 
 
 
