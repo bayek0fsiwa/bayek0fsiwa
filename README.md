@@ -46,8 +46,10 @@ I'm a Student, Learner & Linux Enthusiast!
 
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=vue&langs_count=10&hide=css,html">
  </p>
+
+
 
 <!--
 [![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)]
