@@ -21,6 +21,9 @@ I'm a Student, Learner & Linux Enthusiast!
 - 🌱 I’m currently learning `javascript` and `vue`
 - 🤔 I’m looking for help with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
+- 📫 How to reach me: `You Won't`
+- 💬 Ask me about `Don't ask me anything`
+- ⚡ Fun fact: `No number before 1,000 contains the letter A`
 
 <!--
 **Languages and Tools:**  -->
