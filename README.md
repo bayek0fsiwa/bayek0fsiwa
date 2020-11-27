@@ -48,7 +48,7 @@ I'm a Student, Learner & Linux Enthusiast!
 [<img align="left" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />](https://www.google.com/search?&q=json)</br>
 
 
-<p align="center">
+<p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&langs_count=10&hide=css,html">
  </p>
 
