@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&count_private=true" />
+  <img alt="Hero's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 
@@ -49,7 +49,7 @@ I'm a Student, Learner & Linux Enthusiast!
 
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&langs_count=10&hide=css,html">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark&langs_count=10&hide=css,html">
  </p>
 
 
