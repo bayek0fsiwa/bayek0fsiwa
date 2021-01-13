@@ -17,10 +17,10 @@ I'm a Student, Learner & Linux Enthusiast!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- 🔭 I’m currently working on `Assassins-Creed-API`
-- 🌱 I’m currently learning `javascript` and `vue`
+- 🔭 I’m currently working on `Assassins Creed API`
+- 🌱 I’m currently learning `everything`
 - 🤔 I’m looking for help with other content creators
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 📫 How to reach me: `You Won't`
 - 💬 Ask me about `Don't ask me anything`
 - ⚡ Fun fact: `No number before 1,000 contains the letter A`
@@ -29,10 +29,8 @@ I'm a Student, Learner & Linux Enthusiast!
 **Languages and Tools:**  -->
 </br>
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/go.svg" />](https://www.google.com/search?&q=golang)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=docker)
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.google.com/search?&q=javascript)
@@ -50,22 +48,4 @@ I'm a Student, Learner & Linux Enthusiast!
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark&langs_count=10&hide=css,html">
- </p>
-
-
-
-<!--
-[![Hero's github stats](https://github-readme-stats.vercel.app/api?username=bayek0fsiwa&show_icons=true&hide=contribs&count_private=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark)](https://github.com/baayek0fsiwa/github-readme-stats) 
- <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact)](https://github.com/baayek0fsiwa/github-readme-stats" />
--->
-
-
-
-
-
-
-
-
-
-
+</p>
