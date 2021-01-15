@@ -30,15 +30,14 @@ I'm a Student, Learner & Linux Enthusiast!
 </br>
 
 [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/go.svg" />](https://www.google.com/search?&q=golang)
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/rust.svg" />](https://www.google.com/search?&q=rust)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=docker)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=docker)
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.google.com/search?&q=javascript)
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.google.com/search?&q=typescript)
 [<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://www.google.com/search?&q=nodejs)
 [<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.google.com/search?&q=django)
-[<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://www.google.com/search?&q=vue)
-[<img align="left" alt="nuxt" width="26px" src="https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67" />](https://www.google.com/search?&q=nuxtjs)
 [<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://www.google.com/search?&q=linux)
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.google.com/search?&q=postgresql)
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://www.google.com/search?&q=flask)
