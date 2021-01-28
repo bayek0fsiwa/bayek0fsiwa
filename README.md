@@ -46,5 +46,5 @@ I'm a Student, Learner & Linux Enthusiast!
 
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark&langs_count=10&hide=css,html,jupyter notebook">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayek0fsiwa&layout=compact&theme=dark&langs_count=10&hide=css,html">
 </p>
